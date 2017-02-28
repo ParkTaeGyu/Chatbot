@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : ChatBot.cpp
-// Author      : cmesias
+// Author      : Cmesias (Carl Mesias)
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Copyright   : MIT License
+// Description : Simple Chatbot made in C++
 //============================================================================
 
 #include <iostream>
